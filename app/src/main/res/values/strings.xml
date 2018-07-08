@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UFC Weight Class</string>
+    <string name="male">Masculino</string>
+    <string name="female">Feminino</string>
+    <string name="sex">Sexo</string>
+    <string name="height">Altura</string>
+    <string name="weight">Peso</string>
+    <string name="next">Próximo</string>
+
+
+</resources>
