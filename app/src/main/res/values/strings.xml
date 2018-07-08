@@ -6,6 +6,12 @@
     <string name="height">Altura</string>
     <string name="weight">Peso</string>
     <string name="next">Próximo</string>
-
-
+    <string name="bmi1">Magreza grave</string>
+    <string name="bmi2">Magreza moderada</string>
+    <string name="bmi3">Magreza leve</string>
+    <string name="bmi4">Saudável</string>
+    <string name="bmi5">Sobrepeso</string>
+    <string name="bmi6">Obesidade Grau I</string>
+    <string name="bmi7">Obesidade Grau II (severa)</string>
+    <string name="bmi8">Obesidade Grau III (mórbida)</string>
 </resources>
